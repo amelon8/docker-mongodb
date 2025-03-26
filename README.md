@@ -44,8 +44,8 @@ Install Mongo Shell (e.g., run `brew install mongosh` on macOS).
 
     % mongosh mongodb://localhost:27017
 
-# Use Mongo Compass (DB admin UI)
-See https://www.mongodb.com/try/download/compass
+# MongoDB admin UI
+Install Mongo Compass. Refer to https://www.mongodb.com/try/download/compass
 
 # MongoDB tutorial for beginners
 https://www.w3schools.com/mongodb/
