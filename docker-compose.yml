@@ -1,0 +1,8 @@
+services:
+  db:
+    image: mongodb/mongodb-enterprise-server:latest
+    container_name: mongodb99
+    restart: always
+    tty: true
+    ports:
+      - "27017:27017"
